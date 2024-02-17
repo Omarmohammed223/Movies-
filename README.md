@@ -1,4 +1,4 @@
-#Movies Industry
+# Movies Industry
 Is the movie industry dying? Is Netflix the new entertainment king? Those were the first questions that led me to create a dataset
 Focused on movie revenue and analyze it over the last decades. But why stop there? There are more factors that intervene in this
 kind of thing, like actors, genres, user ratings and more. And now, anyone with experience (you) can ask specific questions about the
